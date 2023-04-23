@@ -48,7 +48,7 @@ hi CursorLine                 guibg=#242424
 " hi MoreMsg
 " hi NonText
 " hi Question
-" hi Search
+hi Search       guifg=#333333
 " hi SpecialKey
 " hi VisualNOS
 " hi WarningMsg
